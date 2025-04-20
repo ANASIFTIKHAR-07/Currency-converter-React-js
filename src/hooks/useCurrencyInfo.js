@@ -13,4 +13,4 @@ function useCurrencyInfo (currency) {
 }
 
 
-export default useCurrencyInfo
+export default useCurrencyInfo;
